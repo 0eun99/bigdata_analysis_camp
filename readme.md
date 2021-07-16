@@ -3,6 +3,7 @@ https://www.kaggle.com/nayansakhiya/heart-fail-analysis-and-quick-prediction
 
 2021 / 07 / 15 ~ 16 
 보건 의료 빅데이터 분석 캠프에서 작성한 코드 백업
+
 사용 csv : HF_data (의료 데이터)
 
 [특성]
